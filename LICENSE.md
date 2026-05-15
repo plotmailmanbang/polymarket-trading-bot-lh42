@@ -1,4 +1,4 @@
-# 
+# updated Polymarket Module | cross-chain-arbitrage + arbitrage-detection offers the most advanced Polymarket module, with cross-chain-arbitrage and arbitrage-detection. Ideal for
 
 
 
